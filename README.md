@@ -1,6 +1,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Journi&fontSize=60)
+## :wave: Hello World, welcome to my Github profile!
 
 ## :muscle: Skills
 ### Languages
