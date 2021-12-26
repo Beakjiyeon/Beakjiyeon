@@ -1,31 +1,30 @@
+## Jiyeon Baek (Journi)
 
+##### Hello world! I'm a backend developer. 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Journi&fontSize=60)
-#### :wave: Hello World, welcome to my Github profile!
+##### My major in university is 💻Computer engineering and I have been a member of the 🦁<a href="https://www.likelion.net/univ">멋쟁이사자처럼</a> club management team.
 
-## :muscle: Skills
-### Languages
+##### I want to grow into a developer with solid basics that knows exactly why❓ I use certain technologies and considers performance🤔.
+
+##### I usually develop with
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-
-### Frameworks
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+##### and I have some experience in developing using
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-
-### Infra Platforms
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)   
 
 
+###
 
-## :herb: Github Status
+
+### 📊 Github Status
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Beakjiyeon)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
