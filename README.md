@@ -1,4 +1,4 @@
-## Jiyeon Baek (Journi)
+## :wave: Jiyeon Baek (Journi)
 
 ##### Hello world! I'm a backend developer. 
 
