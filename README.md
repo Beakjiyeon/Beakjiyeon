@@ -1,12 +1,12 @@
 ## :wave: Jiyeon Baek (Journi)
 
-##### Hello world! I'm a backend developer. 
+#### Hello world! I'm a backend developer. 
 
-##### My major in university is 💻Computer engineering and I have been a member of the 🦁<a href="https://www.likelion.net/univ">멋쟁이사자처럼</a> club management team.
+#### My major in university is 💻Computer engineering and I have been a member of the 🦁<a href="https://www.likelion.net/univ">멋쟁이사자처럼</a> club management team.
 
-##### I want to grow into a developer with solid basics that knows exactly why❓ I use certain technologies and considers performance🤔.
+#### I want to grow into a developer with solid basics that knows exactly why❓ I use certain technologies and considers performance🤔.
 
-##### I usually develop with
+#### I usually develop with
 ![Java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
@@ -16,7 +16,7 @@
 ![css](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-##### and I have some experience in developing using
+#### and I have some experience in developing using
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-00ff7f?style=flat-square&logo=Android&logoColor=white)
